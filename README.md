@@ -1,2 +1,2 @@
-# Fraud-Detection
-Credit card fraud detection using Kaggle Data / ML
+# ML-Credit card fraud detection using random forest algorithm
+Dataset downloaded from kaggle
